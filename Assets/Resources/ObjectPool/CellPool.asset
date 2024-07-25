@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f8992976e9c0643b35851d9562cf96, type: 3}
+  m_Name: CellPool
+  m_EditorClassIdentifier: 
+  Items:
+  - Count: 1
+    GameObject: {fileID: 3225017666283185361, guid: 75086b0519f36d7409812daf35220b91, type: 3}
+    Key: 1
+  - Count: 2
+    GameObject: {fileID: 120900, guid: 33141ba5efd9ad940894f1bc038f7404, type: 3}
+    Key: 2
+  - Count: 3
+    GameObject: {fileID: 125166, guid: c93ce44b57eae5e4798faec2530074a2, type: 3}
+    Key: 3
+  - Count: 4
+    GameObject: {fileID: 101480, guid: 3a5e73743824b974bb514d936eb50838, type: 3}
+    Key: 4
+  - Count: 5
+    GameObject: {fileID: 151478, guid: 5f19059a25cc79846bd5cb105d836b19, type: 3}
+    Key: 5
+  - Count: 6
+    GameObject: {fileID: 1812471239166969243, guid: 8020ce2e3f547764dbd089cb053363fb, type: 3}
+    Key: 6
+  - Count: 7
+    GameObject: {fileID: 4144522604303251898, guid: 60bb0e4e416a3654d8486a4902bcfaa7, type: 3}
+    Key: 7

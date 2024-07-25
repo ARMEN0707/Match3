@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 108987de5c3e04b10b9cdf8ac5e33aba, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  Groups:
+  - Name: Music
+  - Name: Sound
+  SoundsList:
+  - Group:
+      Name: Music
+    Clip: {fileID: 8300000, guid: 4c9b942e73a634c498fac545affb08a8, type: 3}
+    Id: -1783381961
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: da867bba9934f9e4592b26e137f342ae, type: 3}
+    Id: -628049934
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: 7768fc873598b4842a77fe3c5af4734f, type: 3}
+    Id: -373642020
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: ea32e7b12eef59745aca7452640c8c37, type: 3}
+    Id: 505662430
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: 922e8ab99dc8f7e4bae1548be6276782, type: 3}
+    Id: -1142558480
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: ffb08dc50e3ae7344a966e2f9f840951, type: 3}
+    Id: -2042028820
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: 5e5599fdcf49e2c4fa0960c3ef1c3694, type: 3}
+    Id: 1675924734
+  - Group:
+      Name: Sound
+    Clip: {fileID: 8300000, guid: 9241e1875f187284a8d81407ee41f8bd, type: 3}
+    Id: -258442004

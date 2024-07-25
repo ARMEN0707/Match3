@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cb500cf0f58e74f9a52a8af931edde, type: 3}
+  m_Name: -tk2d
+  m_EditorClassIdentifier: 
+  version: 4
+  spriteAnimationIndex: []
+  fontIndex: []
+  spriteCollectionIndex:
+  - name: ProgressBar
+    spriteCollectionGUID: ff5d4b9ca5664a142b61bce7a4eeb93d
+    spriteCollectionDataGUID: 8ed291191a1fde44cae9f3e89ed2c7de
+    spriteNames:
+    - Green
+    - Black
+    spriteTextureGUIDs:
+    - 2aca35fd91e710f4f80688b9e43d7a53
+    - 6a7258d0924510e45a47aebd03a46393
+    spriteTextureTimeStamps:
+    - 1658452627.20796
+    - 1658452627.20596
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
